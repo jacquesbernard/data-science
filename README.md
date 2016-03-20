@@ -1,2 +1,3 @@
 # data-science
-My data science activity
+This is to test my data-science skills
+just to check how things are working
